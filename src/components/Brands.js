@@ -12,7 +12,7 @@ const Brands = () => {
         <div className="w-full">
           <div className="mx-auto lg:w-[50%]">
             <h1 className="text-center text-blue-800 font-semibold">
-              <i className="fa-solid fa-arrow-left lg:mr-5"></i> Trusted by <span className="text-orange-500">100+ companies</span> World Wide <i class="fa-solid fa-arrow-right lg:ml-5"></i>
+              <i className="fa-solid fa-arrow-left lg:mr-5"></i> Trusted by <span className="text-orange-500">100+ companies</span> World Wide <i className="fa-solid fa-arrow-right lg:ml-5"></i>
             </h1>
           </div>
           <div className="mt-10 lg:w-full flex flex-wrap  mx-auto justify-around p-2 lg:items-center">

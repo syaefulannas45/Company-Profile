@@ -22,7 +22,7 @@ const Services = () => {
                   <button className=" mx-auto border p-3 text-center rounded-full w-[60%] block lg:w-[40%]">Read More</button>
                 </div>
                 <div className="absolute top-[-45px] left-[37%] md:left-[40%] bg-blue-900 rounded-full">
-                  <i class="fa-brands fa-shopify text-5xl p-6 text-slate-100"></i>
+                  <i className="fa-brands fa-shopify text-5xl p-6 text-slate-100"></i>
                 </div>
               </div>
             </div>
@@ -34,7 +34,7 @@ const Services = () => {
                   <button className=" mx-auto border p-3 text-center rounded-full w-[60%] block lg:w-[40%]">Read More</button>
                 </div>
                 <div className="absolute top-[-45px] left-[37%] md:left-[40%] bg-orange-600 rounded-full">
-                  <i class="fa-solid fa-rocket text-5xl p-6 text-slate-100"></i>
+                  <i className="fa-solid fa-rocket text-5xl p-6 text-slate-100"></i>
                 </div>
               </div>
             </div>
