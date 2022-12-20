@@ -8,7 +8,7 @@ import Background5 from "../images/grab.png";
 const Brands = () => {
   return (
     <>
-      <section id="brands" className="mb-20">
+      <section id="brands" className="mb-20 mt-10">
         <div className="w-full">
           <div className="mx-auto lg:w-[50%]">
             <h1 className="text-center text-blue-800 font-semibold">
